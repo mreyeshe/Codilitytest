@@ -8,28 +8,30 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\miguel\\.nuget\\packages\\": {},
+    "C:\\Users\\Cobe 1\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\miguel\\Desktop\\MICK\\C#\\aplicacion\\aplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\Cobe 1\\Documents\\proyecto\\Codilitytest\\aplicacion.csproj",
       "projectName": "aplicacion",
-      "projectPath": "c:\\Users\\miguel\\Desktop\\MICK\\C#\\aplicacion\\aplicacion.csproj",
-      "packagesPath": "C:\\Users\\miguel\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\miguel\\Desktop\\MICK\\C#\\aplicacion\\obj\\",
+      "projectPath": "C:\\Users\\Cobe 1\\Documents\\proyecto\\Codilitytest\\aplicacion.csproj",
+      "packagesPath": "C:\\Users\\Cobe 1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cobe 1\\Documents\\proyecto\\Codilitytest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\miguel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Cobe 1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9,6 +9,39 @@ namespace aplicacion.Controllers
     {
         public int Solution(int [] A, int[] B, int M, int X, int Y)
         {
+             int countPersons=0;
+                int sumWeight=0;
+                int stops=0;
+                int BgExtra=1;
+                
+                List<int> floorsPeople= new List<int>();
+                
+                for (int i = 0; i < A.Length; i++)
+                {
+                    if(sumWeight+A[i]>=Y || countPersons>=X)
+                    {
+                         /*Liberacion de elevador*/
+                        stops+=floorsPeople.Count()+BgExtra;
+                        floorsPeople= new List<int>();
+                        sumWeight=0;
+                        countPersons=0;
+                    }
+
+                    sumWeight+=A[i];
+                    countPersons++;
+                    if(!floorsPeople.Contains(B[i]))
+                    {
+                        floorsPeople.Add(B[i]);
+                    }
+                }
+
+                stops+=floorsPeople.Count()+BgExtra;
+
+                return  stops;
+
+        }
+        public int Solution_2(int [] A, int[] B, int M, int X, int Y)
+        {
             //A = WightAndnumberOfPeoples,
             //B = numberOfFloorsStopsPerPeople,
             //M = MaxOfFloors,
@@ -37,7 +70,7 @@ namespace aplicacion.Controllers
                     }
 
                     sumWeight+=A[i];
-                    countPersons=(i+1);
+                    countPersons++;
                     if(!floorsPeople.Contains(B[i]))
                     {
                         floorsPeople.Add(B[i]);
@@ -51,13 +84,21 @@ namespace aplicacion.Controllers
             return -1;
         }
 
-        public int CalculateElevatorStops(int [] A, int[] B, int M, int X, int Y)
+         public int Solucion2(int A , int B)
         {
-
-
-
-
-            return 0;
+            string cadena=B.ToString();
+            string cadenaMatch=A.ToString();
+            if(A>0 && B>0)
+            {
+               var data= cadena.IndexOf(cadenaMatch);
+               if(data>0)
+               {
+                   return data;
+               }
+                return -1;
+            }
+            
+            return -1;
         }
 
         public int Solucion1(int A , int B)

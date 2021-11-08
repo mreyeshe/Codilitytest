@@ -14,3 +14,19 @@ C:\Users\miguel\Desktop\MICK\C#\aplicacion\obj\Debug\net5.0\aplicacion.dll
 C:\Users\miguel\Desktop\MICK\C#\aplicacion\obj\Debug\net5.0\ref\aplicacion.dll
 C:\Users\miguel\Desktop\MICK\C#\aplicacion\obj\Debug\net5.0\aplicacion.pdb
 C:\Users\miguel\Desktop\MICK\C#\aplicacion\obj\Debug\net5.0\aplicacion.genruntimeconfig.cache
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\bin\Debug\net5.0\aplicacion.exe
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\bin\Debug\net5.0\aplicacion.deps.json
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\bin\Debug\net5.0\aplicacion.runtimeconfig.json
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\bin\Debug\net5.0\aplicacion.runtimeconfig.dev.json
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\bin\Debug\net5.0\aplicacion.dll
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\bin\Debug\net5.0\ref\aplicacion.dll
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\bin\Debug\net5.0\aplicacion.pdb
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\obj\Debug\net5.0\aplicacion.csproj.AssemblyReference.cache
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\obj\Debug\net5.0\aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\obj\Debug\net5.0\aplicacion.AssemblyInfoInputs.cache
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\obj\Debug\net5.0\aplicacion.AssemblyInfo.cs
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\obj\Debug\net5.0\aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\obj\Debug\net5.0\aplicacion.dll
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\obj\Debug\net5.0\ref\aplicacion.dll
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\obj\Debug\net5.0\aplicacion.pdb
+C:\Users\Cobe 1\Documents\proyecto\Codilitytest\obj\Debug\net5.0\aplicacion.genruntimeconfig.cache

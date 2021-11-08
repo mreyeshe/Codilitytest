@@ -43,7 +43,12 @@ namespace aplicacion
             int[]A = new int[] {40,40,100,80,20};
             int[]B = new int[] {3,3,2,2,3};
              var result=solucion.Solution(A,B,3,5,200);
-             Console.WriteLine(result);
+            //  Console.WriteLine(result);
+
+            // var result1=solucion.Solucion2(53,1953786);
+            // var result2=solucion.Solucion2(78,195378678);
+            // var result=solucion.Solucion2(57,153786);
+            Console.WriteLine(result);
       
             
             Console.WriteLine("\npress any key to exit the process...");
