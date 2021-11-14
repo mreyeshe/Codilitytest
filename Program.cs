@@ -83,13 +83,15 @@ namespace aplicacion
             // int[] E = new int [] {4,0};
             // var dataE=solution.PermCheck(E);
             
-            CountingElements cs= new CountingElements();
+            // CountingElements cs= new CountingElements();
             // var resultado=cs.Suma(1520,8000);
             // var datas="";
 
             // var cas =cs.CoderByte(123);
-            var cas =cs.CoderByte(12534);
-               Console.WriteLine("\n "+cas);     
+            // var cas =cs.CoderByte(12453);
+            // var cas =cs.CoderByte(12543);
+            // var cas =cs.CoderByte(897654321);
+            //    Console.WriteLine("\n "+cas);     
             // foreach(var item in resultado)
             // {
             //     datas+=" "+item;
